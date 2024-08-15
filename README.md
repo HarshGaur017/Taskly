@@ -1,4 +1,5 @@
-![Taskly](https://github.com/user-attachments/assets/457437cc-d72d-4d36-ada4-eea1c916d4f2)
+![Taskly](https://github.com/user-attachments/assets/8eda1375-d54b-4912-baeb-9a91e847cf5d)
+
 
 # Taskly
 **A simple and efficient task management app built with Flutter.**
@@ -32,11 +33,11 @@ cd taskly
 flutter pub get
 ```
 **Usage**
-1.Open Taskly on your device.
-2.Tap the + button to add a new task.
-3.Enter the task details and submit.
-4.View the task in the list, and mark it complete by tapping the checkbox icon.
-5.The completed tasks will be indicated by a strikethrough.
+1. Open Taskly on your device.
+2. Tap the + button to add a new task.
+3. Enter the task details and submit.
+4. View the task in the list, and mark it complete by tapping the checkbox icon.
+5. The completed tasks will be indicated by a strikethrough.
 
 **Project Structure**
 ```
@@ -54,11 +55,11 @@ taskly/
 **Contributing**
 Contributions are what make the open-source community such an amazing place to learn, inspire, and create. Any contributions you make are greatly appreciated.
 
-1.Fork the Project.
-2.Create your feature branch: `git checkout -b feature/AmazingFeature`.
-3.Commit your changes: `git commit -m 'Add some AmazingFeature'`.
-4.Push to the branch: `git push origin feature/AmazingFeature`.
-5.Open a pull request.
+1. Fork the Project.
+2. Create your feature branch: `git checkout -b feature/AmazingFeature`.
+3. Commit your changes: `git commit -m 'Add some AmazingFeature'`.
+4. Push to the branch: `git push origin feature/AmazingFeature`.
+5. Open a pull request.
 
 **Acknowledgments**
 * Flutter
