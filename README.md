@@ -5,6 +5,7 @@
 **A simple and efficient task management app built with Flutter.**
 
 **Overview**
+
 Taskly is a task management app designed to help users keep track of their daily tasks efficiently. With a minimalistic user interface, Taskly allows users to add, view, and delete tasks, along with the ability to mark them as completed. It integrates with Hive for local storage, ensuring persistence even after the app is closed.
 
 **Features**
