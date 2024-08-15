@@ -1,4 +1,5 @@
-![Taskly](https://github.com/user-attachments/assets/ca725225-c2ef-46cc-8f22-49f99e816e97)
+![Taskly](https://github.com/user-attachments/assets/457437cc-d72d-4d36-ada4-eea1c916d4f2)
+
 # Taskly
 **A simple and efficient task management app built with Flutter.**
 **Overview**
@@ -54,11 +55,12 @@ taskly/
 Contributions are what make the open-source community such an amazing place to learn, inspire, and create. Any contributions you make are greatly appreciated.
 
 1.Fork the Project.
-2.Create your feature branch: git checkout -b feature/AmazingFeature.
-3.Commit your changes: git commit -m 'Add some AmazingFeature'.
-4.Push to the branch: git push origin feature/AmazingFeature.
+2.Create your feature branch: `git checkout -b feature/AmazingFeature`.
+3.Commit your changes: `git commit -m 'Add some AmazingFeature'`.
+4.Push to the branch: `git push origin feature/AmazingFeature`.
 5.Open a pull request.
+
 **Acknowledgments**
-*Flutter
-*Hive
+* Flutter
+* Hive
 
